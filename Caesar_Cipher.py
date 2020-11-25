@@ -14,7 +14,7 @@ def encrypt(text,s):
 
 
 # check the above function
-text = "Caesr cipher demo"
+text = str(input("Enter text to be encrypted : "))
 s = 4
 
 print("Plain Text : " + text)
