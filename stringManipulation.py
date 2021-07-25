@@ -126,6 +126,7 @@ TANDON,AAROHI,19012886,abc@gmail.com,Finished,"26 August 2020  9:57 AM","26 Augu
 SHANKAR,SHRUTI,19022002,abc@gmail.com,Finished,"26 August 2020  9:59 AM","26 August 2020  10:02 AM","2 mins 11 secs",0.00,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
 "Overall average",,,,,,,,23.21,0.80,0.64,0.80,0.94,0.95,0.92,0.95,0.90,0.91,0.90,0.87,0.58,0.74,0.64,0.78,0.74,0.70,0.58,0.68,0.77,0.83,0.74,0.73,0.46,0.84,0.80,0.62,0.82,0.79,0.80"""
 
+
 target = data.find(input("Enter the name of child : "))
 stop = data.find('Overall')
 print(data[target:stop])
